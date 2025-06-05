@@ -11,5 +11,5 @@ O objetivo é criar uma página web para um restaurante de comida natural chamad
 
 ---
 
-**Autor:** [Ranilton/Ranixx1]
+**Autor:** Ranixx1
 **Data:** Junho de 2025
